@@ -1,11 +1,13 @@
-.app {
+body{
     background-image: linear-gradient(to right, aqua, blue);
-    height: 100vh;
+}
+.app {
+    height: 120vh;
     width: 100vw;
     display: flex;
-
-
+    
 }
+
 
 .app h1{
     text-shadow: 0 0 8px #FF0000, 0 0 10px #0000FF;

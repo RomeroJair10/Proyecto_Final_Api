@@ -10,12 +10,28 @@ const images = [
         Card: '203'
     },
     {
+        src: "https://http.cat/status/204",
+        Card: '204'
+    },
+    {
+        src: "https://http.cat/status/204",
+        Card: '204'
+    },
+    {
         src: "https://http.cat/303",
         Card: '303'
     },
     {
         src: "https://http.cat/303",
         Card: '303'
+    },
+    {
+        src: "https://http.cat/status/305",
+        Card: '305'
+    },
+    {
+        src: "https://http.cat/status/305",
+        Card: '305'
     },
     {
         src: "https://http.cat/308",
@@ -42,6 +58,14 @@ const images = [
         Card: '410'
     },
     {
+        src: "https://http.cat/status/415",
+        Card: '415'
+    },
+    {
+        src: "https://http.cat/status/415",
+        Card: '415'
+    },
+    {
         src: "https://http.cat/423",
         Card: '423'
     },
@@ -64,6 +88,14 @@ const images = [
     {
         src: "https://http.cat/502",
         Card: '502'
+    },
+    {
+        src: "https://http.cat/status/503",
+        Card: '503'
+    },
+    {
+        src: "https://http.cat/status/503",
+        Card: '503'
     },
     {
         src: "https://http.cat/506",
