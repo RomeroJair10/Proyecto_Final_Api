@@ -1,15 +1,19 @@
 .app {
-    background-color: blue;
-    height: 180vh;
+    background-image: linear-gradient(to right, aqua, blue);
+    height: 100vh;
     width: 100vw;
     display: flex;
 
 
 }
 
+.app h1{
+    text-shadow: 0 0 8px #FF0000, 0 0 10px #0000FF;
+  }
+
 .cards-container{
-    width: 1000px;
-    height: 600px;
+    width: 2000px;
+    height: 900px;
 }
 
 .card {
